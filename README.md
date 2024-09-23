@@ -4,6 +4,11 @@ Natural Language
 
 Programming Language
 - javascript(Not good at it)
+
+Live in
+- Japan
+- Kinki Region
+- Hyogoslavia
 <!---
 ComradeAdmiral43/ComradeAdmiral43 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
